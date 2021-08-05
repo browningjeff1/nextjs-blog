@@ -1,10 +1,12 @@
 ---
 title: 'Top-down Action Role-playing Game'
 built: 'Built using Unity Game Engine, C#'
-link: ''
+link: 'https://youtu.be/TxGMIHyOBaE'
 ---
 
-This is a top-down point and click action role-playing game made in the Unity Game Engine
+This is a top-down point and click action role-playing game made in the Unity Game Engine.
+
+The link above takes you to a youtube video showcasing the features decribed below.
 
 Features this project includes:
 
