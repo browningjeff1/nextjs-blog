@@ -28,6 +28,7 @@ export default function Layout({ children, home }) {
             alt={name}
           />
           <h1 className={utilStyles.heading2x1}>{name}</h1>
+          <h2 className={`${utilStyles.headingLg} ${utilStyles.lightText}`}>Software Developer/Engineer</h2>
         </>
       ) : (
         <>
@@ -45,6 +46,7 @@ export default function Layout({ children, home }) {
               <a className={utilStyles.colorInherit}>{name}</a>
             </Link>
           </h2>
+          <h3 className={`${utilStyles.headingMd} ${utilStyles.lightText}`}>Software Developer/Engineer</h3>
         </>
       )}
     </header>
