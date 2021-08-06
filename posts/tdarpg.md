@@ -4,6 +4,10 @@ built: 'Built using Unity Game Engine, C#'
 link: 'https://youtu.be/TxGMIHyOBaE'
 ---
 
+<p align="center">
+    <iframe width="1113" height="626" src="https://www.youtube.com/embed/TxGMIHyOBaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 This is a top-down point and click action role-playing game made in the Unity Game Engine.
 
 The link above takes you to a youtube video showcasing the features decribed below.
