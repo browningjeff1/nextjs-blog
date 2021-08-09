@@ -2,6 +2,7 @@
 title: 'Dungeons & Dragons Resource Web Application'
 built: 'Built using React, Hooks, Nodejs, REST'
 link: 'https://spa-dnd-resource-k3u1d1ujf-browningjeff1.vercel.app/'
+github: 'https://github.com/browningjeff1/dnd-lookup'
 ---
 
 This Project is a SPA intended as an intuitive resource for querying information about gameplay mechanics of the tabletop role playing game Dungeons & Dragons

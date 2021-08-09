@@ -32,6 +32,7 @@ export default function Post({ postData }) {
         <div className={utilStyles.lightText}>
           <p>{postData.built}</p>
           <p><a href={postData.link}>Link to project</a></p>
+          <p><a href={postData.github}>Link to Github</a></p>
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
       </article>
