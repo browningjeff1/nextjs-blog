@@ -2,7 +2,7 @@
 title: 'Top-down Action Role-playing Game'
 built: 'Built using Unity Game Engine, C#'
 link: 'https://youtu.be/TxGMIHyOBaE'
-github: ''
+github: 'https://github.com/browningjeff1/rpg-project'
 ---
 
 <div id="iframe-container">
